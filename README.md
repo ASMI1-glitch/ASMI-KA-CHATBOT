@@ -1,4 +1,5 @@
 # Getting Started with Create React App
+#check the prerequsits first have some idea how the control execution of this project goes
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
